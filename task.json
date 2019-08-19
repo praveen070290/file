@@ -1,1 +1,119 @@
-[{"timeCommitted":2,"userClocks":[{"clockTime":0,"userOID":{"userID":2,"userName":"William"}},{"clockTime":0,"userOID":{"userID":2,"userName":"Benjamin"}},{"clockTime":0,"userOID":{"userID":2,"userName":"Lucas"}},{"clockTime":0,"userOID":{"userID":2,"userName":"Logan"}}],"workOrderOID":{"taskID":1,"taskName":"task1"}},{"timeCommitted":40,"userClocks":[{"clockTime":0,"userOID":{"userID":2,"userName":"Kylo"}}],"workOrderOID":{"taskID":2,"taskName":"task2"}},{"timeCommitted":5,"userClocks":[{"clockTime":0,"userOID":{"userID":2,"userName":"Finn"}}],"workOrderOID":{"taskID":3,"taskName":"task3"}},{"timeCommitted":2,"userClocks":[{"clockTime":0,"userOID":{"userID":2,"userName":"Franko"}}],"workOrderOID":{"taskID":4,"taskName":"task4"}},{"timeCommitted":14,"userClocks":[{"clockTime":0,"userOID":{"userID":2,"userName":"Percy"}}],"workOrderOID":{"taskID":5,"taskName":"task5"}}]
+[
+  {
+    "timeCommitted": 2,
+    "userClocks": [
+      {
+        "clockTime": 0,
+        "isActive": false,
+        "startTime": null,
+        "userOID": {
+          "userID": 2,
+          "userName": "William"
+        }
+      },
+      {
+        "clockTime": 0,
+        "isActive": false,
+        "startTime": null,
+        "userOID": {
+          "userID": 2,
+          "userName": "Benjamin"
+        }
+      },
+      {
+        "clockTime": 0,
+        "isActive": false,
+        "startTime": null,
+        "userOID": {
+          "userID": 2,
+          "userName": "Lucas"
+        }
+      },
+      {
+        "clockTime": 0,
+        "isActive": false,
+        "startTime": null,
+        "userOID": {
+          "userID": 2,
+          "userName": "Logan"
+        }
+      }
+    ],
+    "workOrderOID": {
+      "taskID": 1,
+      "taskName": "task1"
+    }
+  },
+  {
+    "timeCommitted": 40,
+    "userClocks": [
+      {
+        "clockTime": 0,
+        "isActive": false,
+        "startTime": null,
+        "userOID": {
+          "userID": 2,
+          "userName": "Kylo"
+        }
+      }
+    ],
+    "workOrderOID": {
+      "taskID": 2,
+      "taskName": "task2"
+    }
+  },
+  {
+    "timeCommitted": 5,
+    "userClocks": [
+      {
+        "clockTime": 0,
+        "isActive": false,
+        "startTime": null,
+        "userOID": {
+          "userID": 2,
+          "userName": "Finn"
+        }
+      }
+    ],
+    "workOrderOID": {
+      "taskID": 3,
+      "taskName": "task3"
+    }
+  },
+  {
+    "timeCommitted": 2,
+    "userClocks": [
+      {
+        "clockTime": 0,
+        "isActive": false,
+        "startTime": null,
+        "userOID": {
+          "userID": 2,
+          "userName": "Franko"
+        }
+      }
+    ],
+    "workOrderOID": {
+      "taskID": 4,
+      "taskName": "task4"
+    }
+  },
+  {
+    "timeCommitted": 14,
+    "userClocks": [
+      {
+        "clockTime": 0,
+        "isActive": false,
+        "startTime": null,
+        "userOID": {
+          "userID": 2,
+          "userName": "Percy"
+        }
+      }
+    ],
+    "workOrderOID": {
+      "taskID": 5,
+      "taskName": "task5"
+    }
+  }
+]
