@@ -1,119 +1,53 @@
-[
-  {
-    "timeCommitted": 2,
-    "userClocks": [
-      {
-        "clockTime": 0,
-        "isActive": false,
-        "startTime": null,
-        "userOID": {
-          "userID": 2,
-          "userName": "William"
+{
+  "workstation": "WS-2390",
+  "username": "Nandu Padavettiyil",
+  "task-list": [
+    {
+      "taskId": "T-1200",
+      "taskName": "Inspection and welding activities",
+      "taskDescription": "Lorem ipsm dolor sir amet.",
+      "taskTime": "1573802307",
+      "users": [
+        {
+          "userId": "UID-120",
+          "userName": "John Doe",
+          "userAvatar": "https://image.flaticon.com/icons/svg/145/145862.svg",
+          "userStatus": "START",
+          "userCurrentTime": 1573802307,
+          "userOverallTime": 1573802307
         }
-      },
-      {
-        "clockTime": 0,
-        "isActive": false,
-        "startTime": null,
-        "userOID": {
-          "userID": 2,
-          "userName": "Benjamin"
+      ]
+    },
+{
+      "taskId": "T-1200",
+      "taskName": "Inspection and welding activities",
+      "taskDescription": "Lorem ipsm dolor sir amet.",
+      "taskTime": "1573802307",
+      "users": [
+        {
+          "userId": "UID-120",
+          "userName": "John Doe",
+          "userAvatar": "https://image.flaticon.com/icons/svg/145/145862.svg",
+          "userStatus": "START",
+          "userCurrentTime": 0,
+          "userOverallTime": 0
         }
-      },
-      {
-        "clockTime": 0,
-        "isActive": false,
-        "startTime": null,
-        "userOID": {
-          "userID": 2,
-          "userName": "Lucas"
+      ]
+    },{
+      "taskId": "T-1200",
+      "taskName": "Inspection and welding activities",
+      "taskDescription": "Lorem ipsm dolor sir amet.",
+      "taskTime": "1573802307",
+      "users": [
+        {
+          "userId": "UID-120",
+          "userName": "John Doe",
+          "userAvatar": "https://image.flaticon.com/icons/svg/145/145862.svg",
+          "userStatus": "START",
+          "userCurrentTime": 1573802307,
+          "userOverallTime": 1573802307
         }
-      },
-      {
-        "clockTime": 0,
-        "isActive": false,
-        "startTime": null,
-        "userOID": {
-          "userID": 2,
-          "userName": "Logan"
-        }
-      }
-    ],
-    "workOrderOID": {
-      "taskID": 1,
-      "taskName": "task1"
+      ]
     }
-  },
-  {
-    "timeCommitted": 40,
-    "userClocks": [
-      {
-        "clockTime": 0,
-        "isActive": false,
-        "startTime": null,
-        "userOID": {
-          "userID": 2,
-          "userName": "Kylo"
-        }
-      }
-    ],
-    "workOrderOID": {
-      "taskID": 2,
-      "taskName": "task2"
-    }
-  },
-  {
-    "timeCommitted": 5,
-    "userClocks": [
-      {
-        "clockTime": 0,
-        "isActive": false,
-        "startTime": null,
-        "userOID": {
-          "userID": 2,
-          "userName": "Finn"
-        }
-      }
-    ],
-    "workOrderOID": {
-      "taskID": 3,
-      "taskName": "task3"
-    }
-  },
-  {
-    "timeCommitted": 2,
-    "userClocks": [
-      {
-        "clockTime": 0,
-        "isActive": false,
-        "startTime": null,
-        "userOID": {
-          "userID": 2,
-          "userName": "Franko"
-        }
-      }
-    ],
-    "workOrderOID": {
-      "taskID": 4,
-      "taskName": "task4"
-    }
-  },
-  {
-    "timeCommitted": 14,
-    "userClocks": [
-      {
-        "clockTime": 0,
-        "isActive": false,
-        "startTime": null,
-        "userOID": {
-          "userID": 2,
-          "userName": "Percy"
-        }
-      }
-    ],
-    "workOrderOID": {
-      "taskID": 5,
-      "taskName": "task5"
-    }
-  }
-]
+  ]
+}
