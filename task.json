@@ -10,7 +10,23 @@
       "users": [
         {
           "userId": "UID-120",
-          "userName": "John Doe",
+          "userName": "John Doe1",
+          "userAvatar": "https://image.flaticon.com/icons/svg/145/145862.svg",
+          "userStatus": "START",
+          "userCurrentTime": 1573802307,
+          "userOverallTime": 1573802307
+        },
+        {
+          "userId": "UID-120",
+          "userName": "John Doe2",
+          "userAvatar": "https://image.flaticon.com/icons/svg/145/145862.svg",
+          "userStatus": "START",
+          "userCurrentTime": 1573802307,
+          "userOverallTime": 1573802307
+        },
+        {
+          "userId": "UID-120",
+          "userName": "John Doe3",
           "userAvatar": "https://image.flaticon.com/icons/svg/145/145862.svg",
           "userStatus": "START",
           "userCurrentTime": 1573802307,
@@ -26,7 +42,7 @@
       "users": [
         {
           "userId": "UID-120",
-          "userName": "John Doe",
+          "userName": "John Doe1",
           "userAvatar": "https://image.flaticon.com/icons/svg/145/145862.svg",
           "userStatus": "START",
           "userCurrentTime": 0,
@@ -41,7 +57,15 @@
       "users": [
         {
           "userId": "UID-120",
-          "userName": "John Doe",
+          "userName": "John Doe1",
+          "userAvatar": "https://image.flaticon.com/icons/svg/145/145862.svg",
+          "userStatus": "START",
+          "userCurrentTime": 1573802307,
+          "userOverallTime": 1573802307
+        },
+        {
+          "userId": "UID-120",
+          "userName": "John Doe4",
           "userAvatar": "https://image.flaticon.com/icons/svg/145/145862.svg",
           "userStatus": "START",
           "userCurrentTime": 1573802307,
