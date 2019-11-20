@@ -6,58 +6,24 @@
             "userId": "UID-120",
             "userName": "John Doe1",
             "userAvatar": "https://image.flaticon.com/icons/svg/145/145862.svg",
-            "taskList": [
-                {"taskId": "T-1200",
-                    "userStatus": "START",
-                    "userCurrentTime": 1573802307,
-                    "userOverallTime": 1573802307
-                },
-                {"taskId": "T-1201",
-                    "userStatus": "START",
-                    "userCurrentTime": 1573802307,
-                    "userOverallTime": 1573802307},
-                {"taskId": "T-1202",
-                    "userStatus": "START",
-                    "userCurrentTime": 1573802307,
-                    "userOverallTime": 1573802307}
+            "taskGroup": [
+                "T-1200",
+                "T-1201",
+                "T-1202",
+                "T-1203",
+                "T-1204"
             ]
         },
         {
-            "userId": "UID-120",
-            "userName": "John Doe3",
+            "userId": "UID-121",
+            "userName": "John Doe2",
             "userAvatar": "https://image.flaticon.com/icons/svg/145/145862.svg",
-            "taskList": [
-                {"taskId": "T-1200",
-                    "userStatus": "START",
-                    "userCurrentTime": 1573802307,
-                    "userOverallTime": 1573802307},
-                {"taskId": "T-1201",
-                    "userStatus": "START",
-                    "userCurrentTime": 1573802307,
-                    "userOverallTime": 1573802307},
-                {"taskId": "T-1202",
-                    "userStatus": "START",
-                    "userCurrentTime": 1573802307,
-                    "userOverallTime": 1573802307}
-            ]
-        },
-        {
-            "userId": "UID-120",
-            "userName": "John Doe4",
-            "userAvatar": "https://image.flaticon.com/icons/svg/145/145862.svg",
-            "taskList": [
-                {"taskId": "T-1200",
-                    "userStatus": "START",
-                    "userCurrentTime": 1573802307,
-                    "userOverallTime": 1573802307},
-                {"taskId": "T-1201",
-                    "userStatus": "START",
-                    "userCurrentTime": 1573802307,
-                    "userOverallTime": 1573802307},
-                {"taskId": "T-1202",
-                    "userStatus": "START",
-                    "userCurrentTime": 1573802307,
-                    "userOverallTime": 1573802307}
+            "taskGroup": [
+                "T-1200",
+                "T-1201",
+                "T-1202",
+                "T-1203",
+                "T-1204"
             ]
         }
     ],
