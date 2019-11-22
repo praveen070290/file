@@ -2,30 +2,6 @@
     "workstation": "WS-2390",
     "username": "Nandu Padavettiyil",
     "userTaskList": [
-        {
-            "userId": "UID-120",
-            "userName": "John Doe1",
-            "userAvatar": "https://image.flaticon.com/icons/svg/145/145862.svg",
-            "taskGroup": [
-                "T-1200",
-                "T-1201",
-                "T-1202",
-                "T-1203",
-                "T-1204"
-            ]
-        },
-        {
-            "userId": "UID-121",
-            "userName": "John Doe2",
-            "userAvatar": "https://image.flaticon.com/icons/svg/145/145862.svg",
-            "taskGroup": [
-                "T-1200",
-                "T-1201",
-                "T-1202",
-                "T-1203",
-                "T-1204"
-            ]
-        }
     ],
     "taskList": [
         {
