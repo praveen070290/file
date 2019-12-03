@@ -13,8 +13,8 @@
                     "userName": "John Doe1",
                     "userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
                     "userStatus": "PAUSED",
-                    "userCurrentTime": 1573802307,
-                    "userOverallTime": 1573802307
+                    "userCurrentTime": 0,
+                    "overallDuration": 10
                 },
                 {
                     "userId": "UID-120",
@@ -22,7 +22,7 @@
                     "userAvatar": "https://pickaface.net/gallery/avatar/20130507_032319_3095_jpfilho.png",
                     "userStatus": "RUNNING",
                     "userCurrentTime": 1573802307,
-                    "userOverallTime": 1573802307
+                    "overallDuration": 10
                 },
                 {
                     "userId": "UID-120",
@@ -30,7 +30,7 @@
                     "userAvatar": "https://pickaface.net/gallery/avatar/20120826_173031_4828_men.png",
                     "userStatus": "RUNNING",
                     "userCurrentTime": 1573802307,
-                    "userOverallTime": 1573802307
+                    "overallDuration": 10
                 }
             ]
         },
@@ -45,8 +45,8 @@
                     "userName": "John Doe1",
                     "userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
                     "userStatus": "RUNNING",
-                    "userCurrentTime": 0,
-                    "userOverallTime": 0
+                    "userCurrentTime": 1573802307,
+                    "overallDuration": 10
                 }
             ]
         },
@@ -62,7 +62,7 @@
                     "userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
                     "userStatus": "RUNNING",
                     "userCurrentTime": 1573802307,
-                    "userOverallTime": 1573802307
+                    "overallDuration": 10
                 },
                 {
                     "userId": "UID-120",
@@ -70,7 +70,7 @@
                     "userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
                     "userStatus": "RUNNING",
                     "userCurrentTime": 1573802307,
-                    "userOverallTime": 1573802307
+                    "overallDuration": 10
                 }
             ]
         },
@@ -84,17 +84,17 @@
                     "userId": "UID-120",
                     "userName": "John Doe1",
                     "userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
-                    "userStatus": "START",
-                    "userCurrentTime": 1573802307,
-                    "userOverallTime": 1573802307
+                    "userStatus": "CHECKED_OUT_NOT_STARTED,
+                    "userCurrentTime": 0,
+                    "userOverallTime": 0
                 },
                 {
                     "userId": "UID-120",
                     "userName": "John Doe4",
                     "userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
                     "userStatus": "CHECKED_OUT",
-                    "userCurrentTime": 1573802307,
-                    "userOverallTime": 1573802307
+                    "userCurrentTime": 0,
+                   "overallDuration": 10
                 }
             ]
         },
@@ -109,16 +109,16 @@
                     "userName": "John Doe1",
                     "userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
                     "userStatus": "CHECKED_OUT",
-                    "userCurrentTime": 1573802307,
-                    "userOverallTime": 1573802307
+                    "userCurrentTime": 0,
+                    "overallDuration": 10
                 },
                 {
                     "userId": "UID-120",
                     "userName": "John Doe4",
                     "userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
                     "userStatus": "CHECKED_OUT",
-                    "userCurrentTime": 1573802307,
-                    "userOverallTime": 1573802307
+                    "userCurrentTime": 0,
+                    "overallDuration": 10
                 }
             ]
         }
