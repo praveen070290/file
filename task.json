@@ -1,126 +1,119 @@
 {
-    "workstation": "WS-2390",
-    "username": "Nandu Padavettiyil",
-    "taskList": [
-        {
-            "taskId": "T-1200",
-            "taskName": "Testing and Certification of Petroleum tanks, Pressure vessels, Gas Cylinders as per Chief Controller of Explosives guidelines",
-            "taskDescription": "Lorem ipsm dolor sir amet.",
-            "taskTime": "1573802307",
-            "users": [
-                {
-                    "userId": "UID-120",
-                    "userName": "John Doe1",
-                    "userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
-                    "userStatus": "PAUSED",
-                    "userCurrentTime": 0,
-                    "overallDuration": 10
-                },
-                {
-                    "userId": "UID-120",
-                    "userName": "John Doe2",
-                    "userAvatar": "https://pickaface.net/gallery/avatar/20130507_032319_3095_jpfilho.png",
-                    "userStatus": "RUNNING",
-                    "userCurrentTime": 1573802307,
-                    "overallDuration": 10
-                },
-                {
-                    "userId": "UID-120",
-                    "userName": "John Doe3",
-                    "userAvatar": "https://pickaface.net/gallery/avatar/20120826_173031_4828_men.png",
-                    "userStatus": "RUNNING",
-                    "userCurrentTime": 1573802307,
-                    "overallDuration": 10
-                }
-            ]
-        },
-        {
-            "taskId": "T-1201",
-            "taskName": "Site Work,Drawing Preparation,Certificate Preparation,Reporting Managers to day to day work",
-            "taskDescription": "Lorem ipsm dolor sir amet.",
-            "taskTime": "1573802307",
-            "users": [
-                {
-                    "userId": "UID-120",
-                    "userName": "John Doe1",
-                    "userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
-                    "userStatus": "RUNNING",
-                    "userCurrentTime": 1573802307,
-                    "overallDuration": 10
-                }
-            ]
-        },
-        {
-            "taskId": "T-1202",
-            "taskName": "Pressure Vessels as per Director of Factories and Boilers Rules and Registration.",
-            "taskDescription": "Lorem ipsm dolor sir amet.",
-            "taskTime": "1573802307",
-            "users": [
-                {
-                    "userId": "UID-120",
-                    "userName": "John Doe1",
-                    "userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
-                    "userStatus": "RUNNING",
-                    "userCurrentTime": 1573802307,
-                    "overallDuration": 10
-                },
-                {
-                    "userId": "UID-120",
-                    "userName": "John Doe4",
-                    "userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
-                    "userStatus": "RUNNING",
-                    "userCurrentTime": 1573802307,
-                    "overallDuration": 10
-                }
-            ]
-        },
-        {
-            "taskId": "T-1203",
-            "taskName": "Pressure Vessels as per Director of Factories and Boilers Rules and Registration.",
-            "taskDescription": "Lorem ipsm dolor sir amet.",
-            "taskTime": "1573802307",
-            "users": [
-                {
-                    "userId": "UID-120",
-                    "userName": "John Doe1",
-                    "userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
-                    "userStatus": "CHECKED_OUT_NOT_STARTED,
-                    "userCurrentTime": 0,
-                    "userOverallTime": 0
-                },
-                {
-                    "userId": "UID-120",
-                    "userName": "John Doe4",
-                    "userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
-                    "userStatus": "CHECKED_OUT",
-                    "userCurrentTime": 0,
-                   "overallDuration": 10
-                }
-            ]
-        },
-        {
-            "taskId": "T-1204",
-            "taskName": "Pressure Vessels as per Director of Factories and Boilers Rules and Registration.",
-            "taskDescription": "Lorem ipsm dolor sir amet.",
-            "taskTime": "1573802307",
-            "users": [
-                {
-                    "userId": "UID-120",
-                    "userName": "John Doe1",
-                    "userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
-                    "userStatus": "CHECKED_OUT",
-                    "userCurrentTime": 0,
-                    "overallDuration": 10
-                },
-                {
-                    "userId": "UID-120",
-                    "userName": "John Doe4",
-                    "userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
-                    "userStatus": "CHECKED_OUT",
-                    "userCurrentTime": 0,
-                    "overallDuration": 10
-                }
-            ]
-        }
-    ]
+	"workstation": "WS-2390",
+	"username": "Nandu Padavettiyil",
+	"taskList": [{
+			"taskId": "T-1200",
+			"taskName": "Testing and Certification of Petroleum tanks, Pressure vessels, Gas Cylinders as per Chief Controller of Explosives guidelines",
+			"taskDescription": "Lorem ipsm dolor sir amet.",
+			"taskTime": "1573802307",
+			"users": [{
+					"userId": "UID-120",
+					"userName": "John Doe1",
+					"userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
+					"userStatus": "PAUSED",
+					"userCurrentTime": 0,
+					"overallDuration": 10
+				},
+				{
+					"userId": "UID-120",
+					"userName": "John Doe2",
+					"userAvatar": "https://pickaface.net/gallery/avatar/20130507_032319_3095_jpfilho.png",
+					"userStatus": "RUNNING",
+					"userCurrentTime": 1573802307,
+					"overallDuration": 10
+				},
+				{
+					"userId": "UID-120",
+					"userName": "John Doe3",
+					"userAvatar": "https://pickaface.net/gallery/avatar/20120826_173031_4828_men.png",
+					"userStatus": "RUNNING",
+					"userCurrentTime": 1573802307,
+					"overallDuration": 10
+				}
+			]
+		},
+		{
+			"taskId": "T-1201",
+			"taskName": "Site Work,Drawing Preparation,Certificate Preparation,Reporting Managers to day to day work",
+			"taskDescription": "Lorem ipsm dolor sir amet.",
+			"taskTime": "1573802307",
+			"users": [{
+				"userId": "UID-120",
+				"userName": "John Doe1",
+				"userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
+				"userStatus": "RUNNING",
+				"userCurrentTime": 1573802307,
+				"overallDuration": 10
+			}]
+		},
+		{
+			"taskId": "T-1202",
+			"taskName": "Pressure Vessels as per Director of Factories and Boilers Rules and Registration.",
+			"taskDescription": "Lorem ipsm dolor sir amet.",
+			"taskTime": "1573802307",
+			"users": [{
+					"userId": "UID-120",
+					"userName": "John Doe1",
+					"userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
+					"userStatus": "RUNNING",
+					"userCurrentTime": 1573802307,
+					"overallDuration": 10
+				},
+				{
+					"userId": "UID-120",
+					"userName": "John Doe4",
+					"userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
+					"userStatus": "RUNNING",
+					"userCurrentTime": 1573802307,
+					"overallDuration": 10
+				}
+			]
+		},
+		{
+			"taskId": "T-1203",
+			"taskName": "Pressure Vessels as per Director of Factories and Boilers Rules and Registration.",
+			"taskDescription": "Lorem ipsm dolor sir amet.",
+			"taskTime": "1573802307",
+			"users": [{
+					"userId": "UID-120",
+					"userName": "John Doe1",
+					"userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
+					"userStatus": "CHECKED_OUT_NOT_STARTED",
+					"userCurrentTime": 0,
+					"userOverallTime": 0
+				},
+				{
+					"userId": "UID-120",
+					"userName": "John Doe4",
+					"userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
+					"userStatus": "CHECKED_OUT",
+					"userCurrentTime": 0,
+					"overallDuration": 10
+				}
+			]
+		},
+		{
+			"taskId": "T-1204",
+			"taskName": "Pressure Vessels as per Director of Factories and Boilers Rules and Registration.",
+			"taskDescription": "Lorem ipsm dolor sir amet.",
+			"taskTime": "1573802307",
+			"users": [{
+					"userId": "UID-120",
+					"userName": "John Doe1",
+					"userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
+					"userStatus": "CHECKED_OUT",
+					"userCurrentTime": 0,
+					"overallDuration": 10
+				},
+				{
+					"userId": "UID-120",
+					"userName": "John Doe4",
+					"userAvatar": "https://pickaface.net/gallery/avatar/unr_sample_170130_2257_9qgawp.png",
+					"userStatus": "CHECKED_OUT",
+					"userCurrentTime": 0,
+					"overallDuration": 10
+				}
+			]
+		}
+	]
 }
