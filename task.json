@@ -26,8 +26,8 @@
 					"userId": "UID-120",
 					"userName": "John Doe3",
 					"userAvatar": "https://pickaface.net/gallery/avatar/20120826_173031_4828_men.png",
-					"userStatus": "RUNNING",
-					"userCurrentTime": 1573802307,
+					"userStatus": "TRANSFER_AND_CHECKED_OUT",
+					"userCurrentTime": 0,
 					"overallDuration": 10
 				}
 			]
